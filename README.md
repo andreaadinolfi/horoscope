@@ -13,13 +13,13 @@ It will be possible to enter your date of birth. Based on this, you will get the
 Clone this project.
 
 ```ps
-git clone [URL]
+git clone https://github.com/andreaadinolfi/horoscopes.git
 ```
 
 Navigate to the project folder.
 
 ```ps
-cd [Directory]
+cd horoscopes
 ```
 
 Install required packages.
