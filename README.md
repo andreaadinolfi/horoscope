@@ -22,11 +22,12 @@ Navigate to the project folder.
 cd horoscopes
 ```
 
-Run the sh build script OR follow the next steps
+Run the sh build script OR follow the next steps manually.
  ```ps
 sh ./build.sh
 ```
 
+---
 Install required packages.
 
 ```ps
