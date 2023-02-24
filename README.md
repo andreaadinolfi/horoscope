@@ -24,6 +24,7 @@ cd horoscopes
 
 Run the sh build script OR follow the next steps manually.
  ```ps
+chmod +x ./build.sh
 sh ./build.sh
 ```
 
